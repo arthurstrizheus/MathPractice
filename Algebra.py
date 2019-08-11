@@ -1,7 +1,7 @@
 import random
 import time
 from fractions import Fraction
-
+#@Author Arthur Strizheus
 # Global Vars
 # ********************************
 # Vars for Linear Algebra
