@@ -6,6 +6,6 @@ Has an UNFINISHED Algebra with roots option
 Has an UNFINISHED Algebra with equatoin solving option
 
 # What I Learned
-Core Pyton mecanics and language
-File reading and writing
-Mathmatic Algorithms
+Core Pyton mecanics and language,
+File reading and writing,
+and Mathmatic Algorithms
